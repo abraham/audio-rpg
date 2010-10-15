@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>As you stumble off, you begin playing a game that involves kicking small rocks ahead of you. Your record is 16 kicks with the same stone, but the game end abruptly when you accidentally kick a stone that is quite firmly attached to the ground.<Say>
+
+  <Say>In your limping self pity, you don't even notice the gigantic rock formation that eases up
+  on your right. Until, that is, you hear the plinkety plinkety plink of a (musical instrument)
+  from behind it. Who could possibly be playing out here in the middle of nowhere?! What
+  on earth should you do?!</Say>
+
+  <Say>Whip out your harmonica and start a duet. Anyone else who appreciates the power of
+  music can only be totally awesome.</Say>
+
+  <Say>Sneak up and listen to the lyrics. Maybe they'll tell you something about the musician,
+  and whether they'll be nice to you, and whether they'll have beer.</Say>
+
+  <Say>RUN AWAY! No-one good could possibly be out here!</Say>
+  <Redirect method="GET">http://twimlets.com/menu?Message=Press%20one%20to%20start%20a%20duet%2C%20press%20two%20to%20listen%2C%20or%20press%20three%20to%20run%20away.&Options%5B1%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2Fend.xml&Options%5B2%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2Fend.xml&Options%5B3%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2Fend.xml</Redirect>
+</Response>
