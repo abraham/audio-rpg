@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>Hello and welcome to the audio RPG.</Say>
+  <Pause length="4" />
+  <Say>Your adventure starts...</Say>
+  <Pause length="6" />
+  <Say>NOW!</Say>
+  <Redirect method="GET">https://gist.github.com/raw/1501b0a52c1999a1169c/introduction.xml</Redirect>
+</Response>
