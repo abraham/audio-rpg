@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>You have been betrayed by the space pirates. You should have known better, Your mother did warn you about them. But you made some unwise choices, did some unwise things, and now, well, unwise things were being done to you.</Say>
+  <Say>The space pirates didn't just betray you, hey betrayed you right into the middle of a huge dry and hot blistering bare feet type of desert. A desert that, according to legend, is filled to bursting with the sleek and slinky killing machines of horrible terrible myth. But the land sharks are just a myth. Right?</Say>
+  <Say>You chuckle desperately at the stupid idea of sharks on land, and look around hopefully for a water hole or, even better, a well-stocked bar.</Say>
+
+  <Say>Directly in front of you, about a mile or two, maybe three, is a gigantic neon sign that flashes OASIS! OASIS! Interesting, but kinda creepy.</Say>
+  <Say>Directly behind you is the North star. There could be anything in that direction, but at least you could follow the star and be consistently heading towards that anything.</Say>
+  <Say>Or you could just spin around and around in a circle until you fall down, and go the direction your toes point. Because seriously, what's the difference?</Say>
+
+  <Redirect method="GET">http://twimlets.com/menu?Message=Press%20one%20to%20go%20towards%20the%20neon%20oasis%20sign%2C%20press%20two%20to%20follow%20the%20north%20star%2C%20or%20press%203%20to%20spin%20in%20a%20circle.&amp;Options%5B1%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F001-rock.xml&amp;Options%5B2%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F001-rock.xml&amp;Options%5B3%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F001-rock.xml</Redirect>
+</Response>
