@@ -5,5 +5,5 @@
   <Pause length="1" />
   <Say>NOW!</Say>
   <Pause length="1" />
-  <Redirect method="GET">000-desert.xml</Redirect>
+  <Redirect method="GET">001-desert.xml</Redirect>
 </Response>
