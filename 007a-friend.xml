@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>As the final strains fade into the desert, you wait tensely—for judgment, it feels like. The land shark finally opens his eyes and looks at you.</Say>
+  <Say>His eyes aren't quite what you imagined land shark eyes to be. They're a soft warm brown, almost friendly.</Say>
+  <Say>His TEETH, on the other hand, wowza! They are not friendly looking in the least! When he opens his mouth to speak, that evil sharp pointy cave issues—an invitation for tea?!</Say>
+  <Say>Well, what he really said was: "Thanks for not interrupting. When that happens I really get quite angry!" Then he got to his stubby little feet, and continued, "I was just about to make a fire and start a cup of tea. Would you care to join me?"</Say>
+  <Say>Dumbfounded, you just stare with your mouth wide open, probably drooling a little by mistake.</Say>
+  <Say>The land shark sighs, "Or, if you'd rather, I have a map of the desert that you can use to find your way out. Why anyone would want to leave this place I cannot imagine, but to each his own. And without unwitting fools stumbling around trying to get out, I'd never have anything to eat, so I should be grateful."</Say>
+  <Say>Well! This is all unexpected! Which offer are you going to take?</Say>
+  
+  <Say>Take the map and make a run for it.</Say><!-- 008c-map.xml -->
+  <Say>Stick around for the fire and tea.</Say><!-- 008a-tea.xml -->
+  
+  <Redirect method="GET">http://twimlets.com/menu?Message=Press%20one%20to%20take%20the%20map%2C%20or%20press%20two%20to%20have%20tea.&amp;Options%5B1%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F008c-map.xml&amp;Options%5B2%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F008a-tea.xml</Redirect>
+</Response>

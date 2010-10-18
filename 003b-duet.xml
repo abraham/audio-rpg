@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>As you round the corner of the rock, playing along merrily, you nearly break into dance. How wonderful to find a like-minded music lover out here!</Say>
+
+  <Say>You quickly realize that they might like music too, but that's probably all you have in common. Your horrified gaze fills out the checklist: gray pebbly skin, check. Stubby little arms, pretty hilariously short but this isn't a laughing moment, check. A rounded shape, almost all curves, check. A sharp pointy triangle located on the back, check. Big pointy sharp my-goodness-Grandma-how-big teeth, check. Evil glittery black eyes, empty of soul—well, the eyes are closed, so you're not sure about that one. But all evidence points to, oh crap, a LAND SHARK.</Say>
+
+  <Say>Should you stop playing in terror and freeze. Maybe he can't see you if you don't move. That's sharks, right? Or is that dinosaurs? A land shark seems pretty close to a dinosaur. Maybe you'll get lucky and accidentally survive this encounter.</Say><!-- 007a-friend.xml -->
+  <Say>Or keep playing. This is a perfect musical moment and you can worry about survival when the duet is beautifully and properly concluded.</Say><!-- 07a-friend.xml -->
+<!--  5c and 5d) You (do something else instead). If that something is nice or apathetic, go to 5c. If that something is mean/harmful or running away, go to 5d.-->
+
+  <Redirect method="GET">http://twimlets.com/menu?Message=Press%20one%20to%20stop%20playing%20and%20freeze%2C%20or%20press%20two%20to%20keep%20playing.&amp;Options%5B1%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F007a-friend.xml&amp;Options%5B2%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F007a-friend.xml</Redirect>
+</Response>

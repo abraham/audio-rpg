@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>Well. You could do that. The land shark won't stand for it though so lets try something else.</Say>
+  
+  <Redirect method="GET">004b-run.xml</Redirect>
+</Response>

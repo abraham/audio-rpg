@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>Run run run run run run! Aaaaaand: run run run run run!</Say>
+  <Say>Aaaaaand: run run run run run!</Say>
+  <Say>Then your ear catches the most unwanted of sounds: the quick shuffling raspy noise of two stubby shark legs waddling rapidly after you. You risk one wide-eyed glance behind you and OH NO HERE HE COMES! Forcing your tired legs onward, you just manage to keep ahead of him—but how long can you keep this up? How long can he keep this up?</Say>
+  <Say>Time continues to wear on, and on, and on.</Say>
+  <Say>Now you can hear his loud and gasping breath—he obviously in bad shape. Unfortunately, so are you. And this isn't just painful, it's BORING.</Say>
+
+  <Say>You rack your brain for ideas:</Say>
+  <Say>You could challenge the land shark to a duel. Maybe he'd be willing to, you know, settle this with some poker?</Say><!-- 004c-duel.xml -->
+  <Say>You could try to escape by calling Bob and having him pick you up.</Say><!-- 004d-escape.xml -->
+  <Say>You could just turn around and try to punch him in the face.</Say><!-- 004d-fight.xml -->
+  
+  <Redirect method="GET">http://twimlets.com/menu?Message=Press%20one%20to%20challenge%20the%20land%20shark%20to%20a%20duel%2C%20press%20two%20to%20try%20and%20escape%2C%20or%20press%20three%20to%20try%20and%20punch%20him%20in%20the%20snout.&amp;Options%5B1%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F004c-duel.xml&amp;Options%5B2%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F004d-escape.xml&amp;Options%5B3%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F004d-fight.xml&amp;</Redirect>
+</Response>

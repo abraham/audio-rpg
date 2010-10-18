@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>You tentatively yell an invitation—er, challenge—to duel with you.</Say>
+  <Say>What?</Say><Say>he yells back.</Say>
+  <Say>You slow down a tad so he can catch up a little, and re-issue the invitation. Thankfully, he's a gentleman—gentleshark?—and instead of chomping your head off when he gets close, he considers your idea.</Say>
+  <Say>Why not? At least it would stop this infernal running,</Say><Say>he finally responds.</Say><Say>How did you want to duel?</Say>
+  
+  <Say>Propose Chutes and Ladders as the medium for dueling. After all, a land shark couldn't have had much experience with board games OR ladders, right?</Say><!-- 006a-shutes-n-ladders.xml -->
+  <Say>Propose chess. He's just an animal, so he can't be that smart, right? He definitely wouldn't be able to beat you, with your naturally high level of intelligence.</Say><!-- 006b-chess.xml -->
+  <Say></Say><!-- Propose (a game or activity). -->
+  
+  <Redirect method="GET">http://twimlets.com/menu?Message=Press%20one%20to%20play%20Chutes%20and%20Ladders%2C%20or%20press%20two%20to%20play%20chess.&amp;Options%5B1%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F006a-chutes-n-ladders.xml&amp;Options%5B2%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F006b-chess.xml</Redirect>
+</Response>

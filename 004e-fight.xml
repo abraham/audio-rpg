@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>You turn around, cocking your fist, and OH MY GOSH THOSE TEETH ARE HUGE! Okay, never mind that plan, let's get back to running!</Say>
+  
+  <Redirect method="GET">004b-run.xml</Redirect>
+</Response>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>You get yourself all ready and psyched up—and go!</Say>
+  <Say>Unfortunately, calling Bob doesn't work at all. This land shark is smart. And persistent. And you're back to square one.</Say>
+  
+  <Redirect method="GET">004b-run.xml</Redirect>
+</Response>

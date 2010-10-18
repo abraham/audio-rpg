@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Say>You sneak up to the rock and listen carefully. It sounds like a variant of I Kissed a Girl. What does that tell you about this mysterious banjo player?</Say>
+
+  <Say>They're a law-abiding, tax-paying, library-card-carrying citizen that you would trust as a babysitter. You whip out your harmonica and start that duet you were thinking about.</Say><!-- 003b-duet.xml -->
+  <Say>SCARY SCARY RUN RUN! What sort of freak likes I Kissed a Girl?!</Say><!-- 004b-run.xml -->
+  <Say>They have terrible taste in music and don't deserve to continue playing. You need to confiscate the ill-treated instrument immediately.</Say><!-- 004b-run.xml -->
+  
+  <Redirect method="GET">http://twimlets.com/menu?Message=Press%20one%20to%20play%20a%20duet%2C%20press%20two%20to%20run%20away%2C%20or%20press%20three%20to%20confiscate%20the%20instrument.&amp;Options%5B1%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F003b-duet.xml&amp;Options%5B2%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F004b-run.xml&amp;Options%5B3%5D=http%3A%2F%2Fabraham.github.com%2Faudio-rpg%2F004b-run.xml</Redirect>
+</Response>
